@@ -22,5 +22,8 @@ Analysis of Olympic Games data using SQL, Excel, and Power BI to identify trends
 - Project Presentation
 - Olympic Games Dataset
 
+🖼️ Dashboard Images
+Dashboard screenshots for all five Power BI pages are available in the Dashboard Images folder.
+
  👩‍💻 Author
 Zoya Farheen
